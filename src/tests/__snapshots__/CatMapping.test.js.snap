@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`comp matches snapshot 1`] = `
+<div
+  className="app"
+>
+  <h1>
+    Seems men are more affectionate to cats :)
+  </h1>
+  <div
+    className="content"
+  >
+    <div
+      className="dataSet"
+    >
+      <div
+        className="male-cat-logo"
+      />
+      <h4>
+        Male
+      </h4>
+      <ul />
+    </div>
+    <div
+      className="dataSet"
+    >
+      <div
+        className="female-cat-logo"
+      />
+      <h4>
+        Female
+      </h4>
+      <ul />
+    </div>
+  </div>
+</div>
+`;
